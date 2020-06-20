@@ -5,3 +5,5 @@
 /.vs
 /WebApi/.vs/WebApi/v16
 /WebApi/WebApi/obj
+/WebApi/.vs/WebApi/config
+/WebApi/WebApi/bin/Debug/netcoreapp3.1
