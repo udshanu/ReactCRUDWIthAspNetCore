@@ -7,8 +7,8 @@ App Structure
         	dCandidate.js (Redux actions and action creators)
         	store.js (configure redux store)
     o	components
-        	DCandidateForm.js (form operations)
-        	DCandidates.js (list of records)
+        	DCandidateForm.js (form operations) - Child
+        	DCandidates.js (list of records) - Parent
         	useForm.js (handles common form operations)
     o	reducers
         	dCandidate.js
